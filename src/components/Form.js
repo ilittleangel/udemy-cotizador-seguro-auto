@@ -33,7 +33,7 @@ class Form extends React.Component {
         this.props.cotizarSeguro(infoAuto);
 
         // 4. resetear el formulario (opcional) segun experiencia de usuario
-        e.currentTarget.reset()
+        //e.currentTarget.reset()
     };
 
     render() {
